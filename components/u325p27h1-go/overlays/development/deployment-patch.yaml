@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.rhopp250516.devcluster.openshift.com/tssc/rhtap-qe-go:github-e31cd205c97fddb40959c7662b2074d9c752acbd
+        - image: tssc-quay-quay-tssc-quay.apps.rhopp250516.devcluster.openshift.com/tssc/rhtap-qe-go:github-5de1bfc5da059896554693fe36c5fa07b0d50b31
           name: container-image
